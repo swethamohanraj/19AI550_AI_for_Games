@@ -133,6 +133,7 @@ root.after(1000, check_catch)
 root.mainloop()
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/0b4a4f78-d3c2-4296-a9a5-7a505d71f0c0)
 
 
 ### Result:
