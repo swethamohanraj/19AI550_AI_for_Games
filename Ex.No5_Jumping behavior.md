@@ -17,7 +17,7 @@ To write a python program to simulate Jumbing behavior.
 11.  Stop the program
  ### Program:
 
-python
+```python
 import pygame
 pygame.init()
 
@@ -72,7 +72,7 @@ pygame.quit()
 
 
 
-
+```
 
 
 
