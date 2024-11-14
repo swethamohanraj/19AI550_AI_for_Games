@@ -7,6 +7,7 @@
 Write a negamax algorithm to find the optimal value of Player from the graph.
 
 ### ALGORITHM:
+
 1. Start the program
 
 2. Define the minimax function
@@ -24,8 +25,8 @@ Write a negamax algorithm to find the optimal value of Player from the graph.
 8. Stop the program.
 
 ### PROGRAM:
-```
-python
+
+```python
 import math
 
 def negamax(curDepth, nodeIndex, scores, targetDepth):
@@ -50,5 +51,9 @@ print(negamax(0, 0, scores, int(treeDepth)))
 
 ![image](https://github.com/user-attachments/assets/97f10fde-2107-4ad2-9a4d-ab134981c069)
 
+
 ### RESULT:
+
+
+
 Thus the best score of max player was found using negamax algorithm
