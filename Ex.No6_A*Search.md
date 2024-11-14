@@ -1,12 +1,12 @@
-### Ex.No6_minimax.md# Ex.No: 6  Implementation of Zombie survival game using A* search 
+# Ex.No: 6  Implementation of Zombie survival game using A* search 
 
-### DATE: 5-10-2024
-### REGISTER NUMBER : 212221240055
+#### DATE: 5-10-2024
+#### REGISTER NUMBER : 212221240055
 ### AIM: 
 
 To write a python program to simulate the Zomibie Survival game using A* Search 
 
-### Algorithm:
+### ALGORITHM:
 
 1. Start the program
 
@@ -26,9 +26,9 @@ To write a python program to simulate the Zomibie Survival game using A* Search
 
 11.  Stop the program
 
- ### Program:
+### PROGRAM:
 
-
+```python
 import pygame
 import heapq
 import random
@@ -160,18 +160,13 @@ def main():
 
     pygame.quit()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
+```
 
-
-
-
-
-### Output:
+### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/6377e6ff-7b31-4d60-856a-22853678e9c1)
 
-
-
-### Result:
+### RESULT:
 Thus the simple Zombie survival game was implemented using python.
