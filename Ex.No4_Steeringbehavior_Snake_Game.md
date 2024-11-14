@@ -23,7 +23,7 @@ To write a python program to simulate the snake game using steering behaviors
 
 
  ### Program:
-python
+```python
 import pygame
 import random
 
@@ -91,7 +91,7 @@ while running:
 
 # Quit Pygame
 pygame.quit()
-
+```
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/acac70b0-9a6e-4200-a2ac-ae7f01e43a6d)
