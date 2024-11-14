@@ -20,7 +20,7 @@ To write a python program to simulate the process of passing an item among playe
 <br>
 
 ### PROGRAM:
-python
+```python
 import queue
 import random
 import time
@@ -51,7 +51,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-
+```
 
 
 ### OUTPUT:
