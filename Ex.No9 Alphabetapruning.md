@@ -16,7 +16,7 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 
 ### Program:
 
-python
+```python
 # Define a large negative and positive value to represent infinity
 INF = float('inf')
 
@@ -57,7 +57,7 @@ if __name__ == "__main__":
     values = [3, 5, 6, 9, 1, 2, 0, -1]
 
     print("Optimal value:", alpha_beta_pruning(0, 0, True, values, -INF, INF))
-`
+````
 
 
 
