@@ -16,7 +16,7 @@ To write a python program to simulate the process of seek and flee behaviors usi
 10. Close the pygame window when quit icon is clicked.
 11. Stop the program
 ### Program:
-python
+```python
 import pygame
 import sys
 import random
@@ -106,7 +106,7 @@ while True:
     snake.draw(screen)
     pygame.display.flip()
     clock.tick(FPS)
-
+```
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/bd77d2fc-d8e8-4ac9-a371-61a97c193fe2)
